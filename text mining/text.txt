@@ -1,0 +1,90 @@
+Text Mining: Introduction
+Overview
+According to some reports in 2018, around 2.5 quintillion bytes of data are created every day and it’s going to increase every year. The data we create includes videos, audios, images, text and many more. With increase in data every business needs proper tools and techniques to utilize their data to extract useful information about their products and customers. Data is key to businesses and proper utilization of those data adds value to the organization. Data is collected from the customer through social media, emails, text messages and many more on a day to day basis. As data increases exponentially with the time, every organization must learn how to analyse the data correctly. One of the techniques to analyse the data more efficiently is text mining. Text mining is simply the process of transforming unstructured text into a structured format so that new conclusions, patterns and insights can be drawn from it. As most of the data such as email, customer feedback, text messages consists of text data; text mining is becoming extremely important. Every big organization uses text mining to gather meaningful patterns from the data so that they get to know the needs of their customer more effectively and efficiently.
+
+Text Mining Process
+The process of text mining combines several techniques that enable us to deduce the information from the unstructured data. The general process in text mining are;
+
+The first step involved in text mining is collection of data i.e. text. The data can be collected from different sources such as websites, emails, social media, blogs and others. All the available data are gathered together in the initial step.
+
+After the collection of data, text pre-processing is carried out. This is the main step in text mining and requires lots of time and effort. The collected data may be structured, semi-structured and unstructured. In text pre-processing all the available data is cleansed to create structured data. These steps consist of methods such as text cleanup, tokenization, filtering, stemming, lemmatization, linguistic processing, part of speech recognition and word sense disambiguation.
+
+After the pre-processing of data, various techniques are used to analyse the data. The analysis must be carried out on structured data as it gives efficient results. The common methods used in these steps are information extraction, information retrieval, categorization, clustering, visualization and summarization.
+
+Finally the obtained results are evaluated and stored for future reference. In this way the data obtained from different sources are used to get the meaningful patterns using text mining.
+
+Text Mining Techniques
+Text mining techniques are used to discover the insights from structured text/data. These text mining techniques use different tools, methods and applications for their execution. The various text mining techniques are;
+
+Information Extraction
+It is one of the most famous text mining techniques. This technique focuses on identifying the extraction of entities, attributes and their relationships from the available textual data. Whatever information is extracted from the data is then stored in a database for future access and retrieval. The efficiency and relevancy of the results are evaluated using precision and recall processes.
+
+Information Retrieval
+Information Retrieval is the process of extracting relevant and associated patterns based on a specific set of words or phrases. In this text mining technique, information retrieval systems make use of different algorithms to track and monitor user behaviors and discover relevant data accordingly.
+
+Categorization
+Categorization is one of the most popular supervised learning methods. In this technique, normal language texts are assigned to a predefined set of classes or topics depending upon their content. In this technique, the text documents are gathered, processed and analysed to find the right topics or indexes for each document. Naive Bayesian classifier, Decision tree, Nearest Neighbour classifier and Support Vendor Machines are commonly used to categorize the texts.
+
+Clustering
+Clustering is one of the most popular unsupervised learning methods in which the data points that are neither classified nor labeled. In this technique the group of text documents which have similar contents are divided into a cluster. The K-means clustering algorithm is one of the most used clustering techniques in which the available data are divided into different clusters by using mean values.
+
+Visualization
+Visualization is used to simplify and enhance the discovery of useful information with visual cues. It uses visual cues such as text flags to indicate individual documents or document categories and colours to indicate the density of a category, entity, phrase, etc. It is used in placing the large sources of textual data in visual hierarchy.
+
+Summarization
+Summarization is used to reduce the length of the document and summarize the document’s details in brief. Summarization determines the most important points in a lengthy document and replaces the entire set of documents with new important points quickly and efficiently. Summarization involves three steps i.e. pre-processing, processing, and development. Pre-processing step involves building a structured representation of the text whereas different algorithms are used to get a summary of text in processing and finally the development step is where the final text summary is obtained.
+
+Text Mining Methods
+Traditionally, there are lots of methods developed to solve the text mining problem which is relevant information retrieval according to the user’s requirements. According to information retrieval there are four main methods used in text mining.
+
+Term Based Method (TBM)
+Term refers to a word with semantic meaning. In term based methods a document is analyzed on the basis of the term and has the advantage of efficient computational performance as well as mature theories from their weighting. Term based method faces enormous challenges in case of polysemy and synonymy. Polysemy means a word hasmultiple meanings and synonymy is multiple words with the same meaning. The semantic meaning of many extracted terms is uncertain and does not provide full information for answering what the user wants.
+
+Phrase Based Method (PBM)
+Phrase based method may have advantages over term based method as it carries more semantics like information and is less ambiguous. In phrase based methods the document is analyzed on a phrase basis as it is more discriminative than individual terms.
+
+Concept Based Method (CBM)
+In this method terms are analyzed on sentences and document level. Concept based methods can effectively discriminate between non important terms and meaningful terms which describe the meaning of the sentences. This model normally relies upon natural language processing techniques. Feature selection is used to optimize the representation and to remove the noise and ambiguity in the document.
+
+Pattern Taxonomy Method (PTM)
+In this method documents are analyzed in terms of pattern basis. Taxonomy refers to the process of finding the root words. Patterns can be structured into a taxonomy by using is-a relationship and can be discovered using techniques like rule mining, frequent item set mining, sequential pattern mining and closed pattern mining. This method refines discovered patterns in text documents and has efficient performance than that of concept based and term based methods.
+
+Text Mining Applications
+Text mining has improved user experiences and business decisions. Most of the companies are using text mining tools to add value to their organization and products. Some application areas of text mining includes;
+
+Risk Management
+One of the main causes of business failure is due to lack of proper or insufficient risk analysis. Integrating risk management software powered by text mining technologies canhelp businesses to stay updated with all current trends in the market and boost their abilities to cover up the potential risks.
+
+Customer Care Service
+When the business system is integrated with text analytical tools, feedback systems, chatbots, online reviews, support tickets and social media profiles, it enables us to improve the customer experience with speed. Text mining and sentiment analysis can provide mechanisms for us to prioritize key points for our customer, allowing us to respond to urgent issues in real-time and helps to increase the customer satisfaction.
+
+Healthcare
+One of the major applications of text mining is the healthcare sector as it provides valuable information to the researchers. Manual investigation of medical research can be very costly and time consuming. As text mining provides an automation method for extracting the valuable information from the medical literature, it is becoming extremely popular in the medical field as well.
+
+Spam Filtering
+Text mining is used to filter and exclude the emails from inboxes and thus improving the overall user experiences. With the help of this application it reduces the risk of cyber attacks to the end users.
+
+Fraud Detection
+By combining the outcomes of the text analysis with relevant structured data we are able to process the user profile and claims efficiently as well as to detect and prevent frauds.
+
+Text Mining and Natural Language Processing
+Natural language processing or NLP helps machines to process and read text or speech by simulating the human ability to understand natural language such as english. NLP is a part of artificial intelligence (AI) and is concerned with giving computers the ability to understand natural languages in the same way as human beings do.
+
+NLP is used to understand the concepts within documents and helps to decipher ambiguities of language to extract key facts and relationships and provides summaries. Text mining uses the applications of NLP to derive the high quality of information from the text. Basically text mining is the overall process of deriving useful information from the unstructured data and NLP is one of the methods to do so. NLP combines computational linguistics i.e. rule based modeling of human language with statistical, machine learning and deep learning models thus enabling computers to process human language in the form of text or voice data to understand its full meaning and complete the writer’s intent and sentiment.
+
+With the vast amount of data it is impossible for us to read all of the information ourselves and identify what’s most important and it might take us forever to analyse ambiguous data. However text mining with the help of NLP does all the process with accuracy and at high speed. NLP may be part of text mining and artificial intelligence but it is not less in case of the applications. NLP provides large use cases such as sentimental analysis, chatbot, speech recognition and machine translation and hence making it one of the most important methods of this overall information retrieval process.
+
+Text Mining and Machine Learning
+Machine learning or ML is a part of artificial intelligence (AI), that provides systems with the ability to automatically learn from the experience without the need of explicit programming. ML can help computers to solve complex non deterministic problems with speed and accuracy. ML is also a part of artificial intelligence (AI) and is one of the most important parts of NLP and text mining.
+
+Machine learning for NLP and text mining involves using machine learning algorithms and artificial intelligence to understand the meaning of text documents. The documents may be anything that contains text, social media queries, online reviews, survey responses and even financial, medical legal documents. ML in natural language processing and text analytics helps to improve, accelerate and automate the underlying text analytics functions and NLP features that convert the unstructured text into usable data and outcomes.
+
+Machine learning in NLP and text analytics involves a set of statistical techniques that identifies parts of speech, entities, sentiment and other parts of the text. The techniques can be expressed as a model which is then applied to other texts i.e. also known as supervised machine learning. Supervised learning algorithms such as Support vector machines, Bayesian networks are used to build and improve core text analytics functions and NLP features. Another learning method i.e. unsupervised machine learning algorithms are used in case of large sets of data. Unsupervised learning methods such as clustering are extremely useful for extracting the NLP feature from large data sets.
+
+Text Mining and Artificial Intelligence
+Artificial Intelligence or AI is the ability of a machine to mimic the problem solving and decision making capabilities of the human brain. Integrating AI in the text mining or text analytics can lead to the development of broad applications such as competitive intelligence, human resource management and market analysis. AI consists of different elements such as Machine learning and Natural language processing. Both Natural language processing and Machine learning plays an important role in enhancing AI systems. Without Natural language processing, AI can only understand the meaning of language and answer simple questions, but it won’t be able to know the actual meaning of the words. Thus Natural language processing in AI allows users to communicate with a computer in natural language. Similarly without machine learning, AI can only perform the defined tasks i.e. it can not perform non deterministic problems on it’s own.
+
+AI with both Natural language processing (NLP) and Machine learning (ML) is used in text mining thus helping us to find the valuable insights from large amounts of data. AI provides a large set of real-world applications such as speech recognition, customer service, computer vision, recommendation engine and many more. Thus having a large set of functionality, AI in text mining is one of the most important aspects as it binds together useful methods such as Natural language processing and Machine learning.
+
+Text Mining: Implementation
+Now we will implement a simple example of text mining using tm package in R. For implementation, the above text data is divided into four part i.e. text mining, text mining and nlp, text mining and ml and text mining and ai. These four parts will be created as new text files and stored in the root directory of this project. After the data preparation, we will create a corpus containing all text documents. Then preprocessing of the data will be carried out. Thus obtained clean data will be used for analysis and finally for visualization.
